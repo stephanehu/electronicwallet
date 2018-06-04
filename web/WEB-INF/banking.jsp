@@ -2,7 +2,7 @@
 <%-- 
     Document   : banking
     Created on : Feb 24, 2016, 7:11:01 AM
-    Author     : Stephane
+    Author     :Stephane Ehu Alias RigtheousByGod 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

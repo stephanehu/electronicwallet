@@ -1,7 +1,7 @@
 <%-- 
     Document   : account
     Created on : Feb 24, 2016, 7:11:38 AM
-    Author     : Stephane
+    Author     :Stephane Ehu Alias RigtheousByGod 
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

@@ -2,7 +2,7 @@
 <%-- 
     Document   : services
     Created on : Feb 24, 2016, 7:10:26 AM
-    Author     : Stephane
+    Author     :Stephane Ehu Alias RigtheousByGod 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -24,7 +24,7 @@ import javax.persistence.PersistenceContext;
 
 /**
  *
- * @author Stephane
+ * @author Stephane Ehu Alias RigtheousByGod 
  */
 @Stateless
 @TransactionManagement(TransactionManagementType.CONTAINER)

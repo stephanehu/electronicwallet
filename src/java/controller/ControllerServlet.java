@@ -26,7 +26,7 @@ import validator.Validator;
 
 /**
  *
- * @author Stephane
+ * @author Stephane Ehu Alias RigtheousByGod 
  */
 @WebServlet(name = "ControllerServlet",
         loadOnStartup = 1,

@@ -1,7 +1,7 @@
 $(function(){
     
      $('#hide-sidebar').click(function(){
-      
+       
       if($(this).text() == 'hide filter')
       {
         $('.sidebar').animate({left: '-=25%'}, 500);

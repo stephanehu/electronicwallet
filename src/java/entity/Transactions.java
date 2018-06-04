@@ -26,7 +26,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Stephane
+ * @author Stephane Ehu Alias RigtheousByGod 
  */
 @Entity
 @Table(name = "transactions")

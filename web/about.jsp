@@ -1,7 +1,7 @@
 <%-- 
     Document   : about
     Created on : Feb 24, 2016, 7:19:26 AM
-    Author     : Stephane
+    Author     :Stephane Ehu Alias RigtheousByGod 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

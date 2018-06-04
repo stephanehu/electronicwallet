@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  *
- * @author Stephane
+ * @author Stephane Ehu Alias RigtheousByGod 
  */
 public class Validator {
 

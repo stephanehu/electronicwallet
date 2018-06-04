@@ -33,7 +33,7 @@ import session.TransactionsFacade;
 
 /**
  *
- * @author Stephane
+ * @author Stephane Ehu Alias RigtheousByGod 
  */
 @WebServlet(name = "AccountManagementServlet",
         loadOnStartup = 1,
