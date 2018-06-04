@@ -1,0 +1,23 @@
+
+<div class="form-group">
+                                    <label> RDocs:</label><input disabled="true" class="form-control"  type="file"  name="" src="" required="true" /> 
+                                </div>
+                                <div class="form-group">
+                                    <label> BDocs:</label><input disabled="true" class="form-control" type="file"  name="" src="" required="true" />
+                                </div>
+                                <div class="form-group">
+                                    <label> CDocs:</label><input  class="form-control" type="file"  name="" src="" required="true" />  
+                                </div>
+                                <div class="form-group">
+                                    <label> PDocs:</label><input disabled="true" class="form-control" type="file"  name="" src=""  required="true"/>  
+                                </div>
+
+ <div class="form-group">
+                                    <label>DOBth:</label><input disabled="true" class="form-control" type="date" name=""  placeholder="Date of Bith" required="true"/>
+                                </div>
+                                <div class="form-group">
+                                    <label> IdNum:</label><input disabled="true" class="form-control" type="text"  name=""  placeholder="Identity Pin" required="true"/> 
+                                </div>
+                                <div class="form-group">
+                                    <label> Works:</label><input disabled="true" class="form-control" type="email" name=""  placeholder="Profession" required="true"/>
+                                </div>
